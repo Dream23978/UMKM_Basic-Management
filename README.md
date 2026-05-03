@@ -28,6 +28,4 @@ A Single Page Application (SPA) designed to help Mie Arok Bang Hen manage custom
 
 
 ##Progress
-- Halaman error 404 dah ada
-- setup database baru 2 tabel
-- sedikit tampilan UI pembeli
+- done setup supabase
